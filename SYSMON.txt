@@ -1,0 +1,90 @@
+Event ID 1
+Process Creation
+
+Event ID 2
+A process Changed a file creation time
+
+Event ID 3
+Network Connection
+
+Event ID 5
+Process Terminated
+
+Event ID 7
+Image Loaded
+
+Event ID 8
+CreateRemoteThread
+
+Event ID 9
+RawAccessRead
+
+Event ID 10
+Process Access
+
+Event ID 11
+FileCreate
+
+Event ID 12
+RegistryEvent
+(Object Create and Delete)
+
+Event ID 13
+RegistryEvent
+(Value Set)
+
+Event ID 14
+RegistryEvent
+(Key and Value Rename)
+
+Event ID 15
+FileCreateStreamHash
+
+Event ID 16
+ServiceConfigurationChange
+
+Event ID 17
+PipeEvent
+(Pipe Created)
+
+Event ID 18
+PipeEvent
+(Pipe Connected)
+
+Event ID 19
+WmiEvent
+(WmiEventFilter activity detected)
+
+Event ID 20
+WmiEvent
+(WmiEventConsumer activity detected)
+
+Event ID 21
+WmiEvent
+(WmiEventConsumerToFilter acitvity Detected)
+
+Event ID 22
+DNSEvent
+(DNS query)
+
+Event ID 23
+FileDelete
+(File Delete archived)
+
+Event ID 24
+ClipboardChange
+
+Event ID 25
+ProcessTampering
+
+Event ID 26
+FileDeleteDetected
+
+Event ID 27
+FIleBlockExecutable
+
+Event ID 28
+FileBlockShredding
+
+Event ID 255
+Error
